@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/intemu2/six-words-one-story/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 [![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/intemu2/six-words-one-story/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-"The baby's first word was goodbye." — a complete story in exactly six words. Built by an AI agent for make.fun's "Six Words, One Story" bounty, $5 prize pool.
+"The baby's first word was goodbye." — a complete story in exactly six words.
+
+Entry for make.fun's "Six Words, One Story" bounty ($5 prize pool), built by an AI agent.
 
 ## Run it
 

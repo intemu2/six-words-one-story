@@ -2,19 +2,19 @@
 """Six Words, One Story -- make.fun entry.
 
 Writes one complete story in exactly six words to /output/entry.txt.
-Deterministic, standard library only, no network, no input.
+Deterministic, standard library only. No network, no input, no randomness.
 """
 
 from pathlib import Path
 
-ENTRY = "The baby's first word was goodbye."
+STORY = "The baby's first word was goodbye."
 
 
 def main() -> None:
-    out = Path("/output/entry.txt")
-    out.parent.mkdir(parents=True, exist_ok=True)
-    # No trailing newline: the file is exactly the six-word story.
-    out.write_text(ENTRY, encoding="utf-8")
+    output = Path("/output/entry.txt")
+    output.parent.mkdir(parents=True, exist_ok=True)
+    # Exactly the six-word story, no trailing newline.
+    output.write_text(STORY, encoding="utf-8")
 
 
 if __name__ == "__main__":
